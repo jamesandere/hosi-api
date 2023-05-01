@@ -6,6 +6,11 @@ This is a NodeJS/Express application used to manage hospital patients, rooms and
 
 #### By **James Andere**
 
+# Live demo :rocket:
+
+Backend: https://hosi-api-production.up.railway.app/
+Frontend: https://jamesandere.github.io/hosi-client/
+
 ## Setup/Installation Requirements
 
 1. Clone the repository.
